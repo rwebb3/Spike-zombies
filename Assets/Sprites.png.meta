@@ -1,0 +1,365 @@
+fileFormatVersion: 2
+guid: 302c09f60a8d82d4f9b4b36fc5183dd8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlayerWalk1
+    21300002: PlayerWalk2
+    21300004: PlayerWalk3
+    21300006: PlayerWalk4
+    21300008: LaserBolt
+    21300010: Sprites_17
+    21300012: Sprites_18
+    21300014: Sprites_20
+    21300016: Sprites_21
+    21300018: Sprites_22
+    21300020: Sprites_23
+    21300022: Sprites_24
+    21300024: Sprites_25
+    21300026: ZombieIdle
+    21300028: ZombieWalk1
+    21300030: ZombieWalk2
+    21300032: ZombieWalk3
+    21300034: ZombieDeath1
+    21300036: ZombieDeath2
+    21300038: ZombieDeath3
+    21300040: ZombieDeath4
+    21300042: Sprites_34
+    21300044: Sprites_35
+    21300046: Sprites_36
+    21300048: Sprites_37
+    21300050: Sprites_38
+    21300052: ZombieComputerIdle
+    21300054: ZombieComputerWalk2
+    21300056: Wall
+    21300058: Window
+    21300060: ZombieComputerWalk1
+    21300062: ZombieComputerWalk3
+    21300064: Floor
+    21300066: ComputerOnDesk
+    21300068: Computer
+    21300070: Desk
+    21300072: Sprites_59
+    21300074: Sprites_60
+    21300076: Sprites_61
+    21300078: Sprites_62
+    21300080: Sprites_63
+    21300082: Sprites_64
+    21300084: Sprites_65
+    21300086: Sprites_66
+    21300088: ElevatorUP
+    21300090: ElevatorDown
+    21300092: PlayerIdle
+    21300094: PlayerJump
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 48
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlayerWalk1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 344
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerWalk2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 344
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerWalk3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 344
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerWalk4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 344
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LaserBolt
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 364
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieIdle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 248
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieWalk1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 248
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieWalk2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 248
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieWalk3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 248
+        width: 32
+        height: 47
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieDeath1
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 248
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieDeath2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 248
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieDeath3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 248
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieDeath4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 248
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieComputerIdle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 152
+        width: 32
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieComputerWalk2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 151
+        width: 32
+        height: 70
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wall
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Window
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieComputerWalk1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 32
+        height: 72
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ZombieComputerWalk3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 32
+        height: 72
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Floor
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 104
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ComputerOnDesk
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 56
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Computer
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Desk
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 48
+        height: 24
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElevatorUP
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 8
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ElevatorDown
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 8
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 344
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerJump
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 344
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
